@@ -1,0 +1,110 @@
+<html>
+<head>
+  <style>
+    #mail  :hover{
+    font-family: MS Reference Sans Serif;
+    font-size:50px;
+    color:white;
+color: #FFFFFF;
+text-shadow: 2px 18px 8px #2E2E2E;
+    }
+     #home  :hover{
+    font-family: MS Reference Sans Serif;
+    font-size:50px;
+    color:white;
+    text-shadow: 2px 18px 8px #2E2E2E;
+    }
+     #images  :hover{
+    font-family: MS Reference Sans Serif;
+    font-size:50px;
+    text-shadow: 2px 18px 8px #2E2E2E;
+    color:white;
+    }
+     #youtube  :hover{
+    font-family: MS Reference Sans Serif;
+    font-size:50px;
+    color:white;
+    text-shadow: 2px 18px 8px #2E2E2E;
+    }
+    a{
+    color:white;
+      font-family: Agency FB;
+    text-decoration:none;
+    }
+    #color{
+    background-color:#4D94FF;
+    }
+#header {
+    background-color: #2E2EB8;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    font-family :Agency FB;
+    color: #FFFFFF;
+text-shadow: 2px 18px 8px #2E2E2E;
+}
+    #nav{
+    background-color:#3333CC;
+    line-height :30px;
+    height : 300px;
+    width :100px;
+  float : left;
+    padding : 5px;
+   
+    }
+ #section{
+  width :400px;
+   float:center;
+    padding:100px;
+    } 
+    
+    #footer {
+    background-color:#FF3300;
+    color:black;
+  clear:both;
+    text-align:center;
+   padding:10px;	 	 
+}
+  </style>
+    </head>
+  <body id="color">
+    <div id="header">
+      <h1>EVER SEARCH</h1>
+    </div>
+    
+   <div id ="nav">
+    
+      <div id ="home"><a href>home<br /></a></div>
+    
+      <div id ="images" ><a href> image<br /> </a></div>
+    
+     <div id="mail">  <a href>mail<br /></a></div> 
+   
+     <div id="youtube"> <a href>youtube<br/></a></div>
+    </div>
+    
+    <center>
+    <div id="section">
+      
+      <h2>LONDON</h2>
+      
+      <p>    London is the capital city of England. It is the most                  
+                      populous city in the United Kingdom,<br />
+  with a metropolitan area of over 13 million inhabitants.
+   Standing on the River Thames, London has been a
+ major settlement for two millennia,<br />
+  its history going back to its founding by  the Romans,
+      who named it Londinium.<br />
+</p>
+    
+      
+
+     
+    </div>
+    </center>
+    <div id ="footer">
+    Copyright © W3Schools.com
+    </div>
+    </body>
+  
+  </html>
